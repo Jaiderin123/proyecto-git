@@ -1,0 +1,23 @@
+* e6fb7b1 (HEAD -> main, origin/main, origin/HEAD) Revert "Commit de prueba para revert"
+* 6f87c5e Commit de prueba para revert
+*   ffa81f3 Merge rama-b en main
+|\  
+| *   f9c6153 (origin/rama-b, rama-b) Resuelve conflicto entre rama-a y rama-b
+| |\  
+| | * 37c4656 (origin/rama-a, rama-a) Agrega conflicto.txt version A
+| |/  
+|/|   
+| * 69fcfe9 Agrega conflicto.txt version B
+|/  
+*   a2f192d Merge pull request #1 from Jaiderin123/feature-pr
+|\  
+| * ab699c4 (origin/feature-pr) Agrega lista de temas en index.html
+|/  
+*   d0cfbbd Merge feature-estilos en main
+|\  
+| * 93b3b39 Enlaza estilos.css en index.html
+| * 9d3c8ff Agrega estilos.css
+|/  
+* 6a4808b Actualiza README con descripcion
+* 21777d4 Agrega index.html
+* 32a11f7 Commit inicial: agrega README
